@@ -15,6 +15,7 @@ from flask_login import LoginManager, login_user, login_required, logout_user, c
 from flask_apscheduler import APScheduler
 import os
 
+
 from model import *
 
 #app = Flask(__name__)
